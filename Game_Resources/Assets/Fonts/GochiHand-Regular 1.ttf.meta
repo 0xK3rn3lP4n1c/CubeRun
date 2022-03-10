@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9d6490f3c31c4d24086c1208a1774f80
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gochi Hand
+  fontNames:
+  - Gochi Hand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1a6949b692c93f4e9a574b74c6fcb12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
